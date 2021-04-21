@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<div align="center">
+<h2> 𝗛𝗶 𝗳𝗲𝗹𝗹𝗼𝘄 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
+
+Don't spend much time in GitHub as my stats can testify 🤔
+https://github-readme-stats.vercel.app/api?username=guillaumegarcia13&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00adef&icon_color=00adef&text_color=909090
+
+I rather develop UI5 application for (HRC Software)[https://www.hrc-software.com]
+
 <!--
 **guillaumegarcia13/guillaumegarcia13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
