@@ -28,7 +28,7 @@ Don't spend much time in GitHub as my stats can testify 🤔
     <p>
       I rather develop UI5 application for <a href="https://www.hrc-software.com">HRC Software</a>
     </p>
-    <img src="https://media-exp1.licdn.com/dms/image/C4E16AQEKWfP-tsJDdw/profile-displaybackgroundimage-shrink_350_1400/0/1617405420832?e=1624492800&v=beta&t=KZqd8twaVvVexhh-1TrChGQ0JuWboBYAo54CSQ1aUHs">
+    <img src="https://www.hrc-software.com/wp-content/themes/hrc/images/logo.png" height="120px">
     <!-- <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFmScv5huzSog/profile-displayphoto-shrink_800_800/0/1612909068260?e=1624492800&v=beta&t=ErlSpWQsouym2HVFtgkUo9dfVkILrsHlqynUmmrNej0" height="120px"> -->
 
 </div>
