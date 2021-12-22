@@ -25,6 +25,7 @@ Don't spend much time in GitHub as my stats can testify 🤔
 <br>
 
 <div align="center">
+  <a href="https://app.daily.dev/JSONborn"><img src="https://api.daily.dev/devcards/ce1d5b98bbb94c4794dce558a2b22209.png?r=yte" width="400" alt="Guillaume GARCIA's Dev Card"/></a>
     <p>
       I rather develop UI5 application for <a href="https://www.hrc-software.com">HRC Software</a>
     </p>
